@@ -11,7 +11,7 @@ h1{
     width: 450px;
     height: 640px;
     position: fixed;
-    top: 40%;
+    top: 55%;
     left: 0px; 
     right: 0px;
     margin:0 auto;
@@ -21,7 +21,7 @@ h1{
   }
   label{
     background: #FFFBEB;
-    height: 68px;
+    height: 100px;
     width: 100%;
     display: block;
     border-bottom: 1px solid #ECF9FF;
