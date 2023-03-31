@@ -1,6 +1,6 @@
 body{
     background:url(bg.jpg)no-repeat ;
-    background-size:contain;
+    background-size:cover;
 
 }
 h1{
@@ -8,9 +8,9 @@ h1{
     text-align: center;
 }
 .tasks{
-    width: 900px;
-    height: 1000px;
-    position: absolute;
+    width: 360px;
+    height: 440px;
+    position: fixed;
     top: 10%;
     left: 0px; 
     right: 0px;
