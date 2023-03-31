@@ -8,10 +8,10 @@ h1{
     text-align: center;
 }
 .tasks{
-    width: 450px;
-    height: 640px;
+    width: 650px;
+    height: 600px;
     position: fixed;
-    top: 55%;
+    top: 40%;
     left: 0px; 
     right: 0px;
     margin:0 auto;
